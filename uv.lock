@@ -200,7 +200,7 @@ test = [
 
 [[package]]
 name = "cloudcoil-models-knative-serving"
-version = "0.0.0"
+version = "1.17.0.0"
 source = { editable = "." }
 dependencies = [
     { name = "cloudcoil" },
