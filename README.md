@@ -1,6 +1,11 @@
 # cloudcoil-models-knative-serving
 
 Versioned knative-serving models for cloudcoil.
+
+[![PyPI](https://img.shields.io/pypi/v/cloudcoil.models.knative_serving.svg)](https://pypi.python.org/pypi/cloudcoil.models.knative_serving)
+[![Downloads](https://static.pepy.tech/badge/cloudcoil.models.knative_serving)](https://pepy.tech/project/cloudcoil.models.knative_serving)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/license/apache-2-0/)
+[![CI](https://github.com/cloudcoil/models-knative-serving/actions/workflows/ci.yml/badge.svg)](https://github.com/cloudcoil/models-knative-serving/actions/workflows/ci.yml)
 > [!WARNING]  
 > This repository is auto-generated from the [cloudcoil repository](https://github.com/cloudcoil/cloudcoil/tree/main/models/knative-serving). Please do not submit pull requests here. Instead, submit them to the main repository at https://github.com/cloudcoil/cloudcoil.
 
