@@ -1,0 +1,14 @@
+[
+  "__init__.py",
+  "_lookup.py",
+  "autoscaling_internal_knative_dev/__init__.py",
+  "autoscaling_internal_knative_dev/v1alpha1.py",
+  "caching_internal_knative_dev/__init__.py",
+  "caching_internal_knative_dev/v1alpha1.py",
+  "networking_internal_knative_dev/__init__.py",
+  "networking_internal_knative_dev/v1alpha1.py",
+  "py.typed",
+  "serving_knative_dev/__init__.py",
+  "serving_knative_dev/v1.py",
+  "serving_knative_dev/v1beta1.py"
+]
