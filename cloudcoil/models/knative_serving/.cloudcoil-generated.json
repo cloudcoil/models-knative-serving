@@ -1,0 +1,15 @@
+[
+  "__init__.py",
+  "_lookup.py",
+  "internal/__init__.py",
+  "internal/autoscaling/__init__.py",
+  "internal/autoscaling/v1alpha1.py",
+  "internal/caching/__init__.py",
+  "internal/caching/v1alpha1.py",
+  "internal/networking/__init__.py",
+  "internal/networking/v1alpha1.py",
+  "py.typed",
+  "serving/__init__.py",
+  "serving/v1.py",
+  "serving/v1beta1.py"
+]
