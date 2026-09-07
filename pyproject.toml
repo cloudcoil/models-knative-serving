@@ -74,6 +74,7 @@ omit = ["cloudcoil/models/**"]
 only-include = ["cloudcoil"]
 
 [[tool.cloudcoil.codegen.models]]
+# Python package for generated models
 namespace = "cloudcoil.models.knative_serving"
 input = [
     "https://github.com/knative/serving/releases/download/knative-v1.23.0/serving-crds.yaml",
