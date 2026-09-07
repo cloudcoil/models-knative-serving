@@ -34,6 +34,5 @@ prepare-for-pr: fix-lint lint test
 
 .PHONY: gen-models
 gen-models:
-	rm -rf cloudcoil/models
-	uv run cloudcoil-model-codegen
+	uv run cloudcoil-model-codegen --config pyproject.toml
 	$(MAKE) fix-lint
